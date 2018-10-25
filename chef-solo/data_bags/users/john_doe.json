@@ -1,0 +1,11 @@
+{
+  "id": "john_doe",
+  "username": "john.doe"
+  "ssh_keys": ["ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3HzImmoJp12PhSwAtqeXL5t4cfy9uHzKXYYWbXB8tD2dPCqTKJHO0h2v5g7ZKHwCvyziCk8C3zJUJaJqXnQuV6PmVR6Ww+dVgjcrjIv+D8MPLN8nAGzt2RPoFFHslXSsjwoYhWU0tD14oj7NmXZ0iOdNJdc9kJZTMADJMprjtKxAYLVdhpWM5ELfgjy6ubK4P+V6Fx7G5tegjim7/JEtVYhmnM48U6BC
+kmGgAX10fWNmxv2cMpdlEuC/UdwdeOPYMKsC9tLgMsH+EccELNkptHu2PZoi2mX4ACL/HnTuSQmphs1dcYgDZeVQG1r5jNArfLJhIrzt0aR8XtGUDe5R3hNPzUjtwDyKWeAhjH8FdlHtOA4mBbrP4CmZLmXcWEAdGXSNbAiTI2xdTnpDmWxHzT4asNsdhxXHhJR5go6DWvC3Eg81NefA5kgIqOOX+QNpBUO0JlTgmA/frNj4p1scGVf9gjMqWzDq9WFzgep
+JDJT+JlxNIHFA/F9CDbWjJiOLzlBM5Tqmftgs6KHvL+10nWNlGoN1F4AQ4BBi/TTYBXqTm3H3A/DBs0pC9mx497SiI6TEbRCHdzsfpclpS8a4OuZllb/EgArfWMQM+uS/oRpSVd8dxoUDlK2JCZVDEVVUmwZnL1ET6OIPXx1+9XjdZJtrdA95zUFGjy6nIATBCoQ=="],
+  "groups": [],
+  "shell": "\/bin\/bash",
+  "comment": "John Doe",
+  "action": "create"
+}
