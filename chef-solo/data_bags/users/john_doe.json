@@ -5,7 +5,7 @@
   "groups": ["chefusers"],
   "shell": "\/bin\/bash",
   "comment": "John Doe",
-  "action": "remove",
+  "action": "create",
   "home": "/home/john.doe",
   "manage_home": true
 }
