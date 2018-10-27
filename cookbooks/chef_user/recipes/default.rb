@@ -10,5 +10,17 @@ users_manage 'chefusers' do
   group_name 'chefusers'
   group_id 8819
   action [:remove, :create]
-  force true
 end	
+
+directory node['chef_user']['py_user_dir'] do
+  owner 'root'
+  group 'root'
+  mode '0755'
+  action :create
+end
+
+git node['chef_user']['py_user_dir'] do
+  repository node['chef_user']['git_py_user']
+  revision 'master'
+  action :sync
+end
