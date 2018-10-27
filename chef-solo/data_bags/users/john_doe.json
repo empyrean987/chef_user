@@ -6,5 +6,6 @@
   "shell": "\/bin\/bash",
   "comment": "John Doe",
   "action": "remove",
-  "home": "/home/john.doe"
+  "home": "/home/john.doe",
+  "manage_home": true
 }
